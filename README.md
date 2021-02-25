@@ -22,7 +22,7 @@ MVVM架构的仿网易云安卓客户端
 
 扫码下载apk体验，如果二维码图片不加载，点击这个[下载链接](http://io.inaction.fun/static/SouthWindMusic.apk)
 
-<img src="http://img.inaction.fun/static/92709.png" alt="二维码" style="zoom:50%;" />
+<img src="http://img.inaction.fun/static/92709.png" alt="二维码" style="zoom:50%;width:400px" />
 
 ### 图片展示
 
@@ -58,7 +58,7 @@ MVVM架构的仿网易云安卓客户端
 
 使用了安卓原生的`MediaPlayer`，在其基础上根据实际需求封装。
 
-<img src="http://img.inaction.fun/static/47801.jpg" alt="播放器生命周期图" style="zoom: 33%;" />
+<img src="http://img.inaction.fun/static/47801.jpg" alt="播放器生命周期图" style="zoom: 33%;width:400px" />
 
 ### 高仿网易云播放页实现
 
